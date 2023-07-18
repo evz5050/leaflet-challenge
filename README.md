@@ -37,6 +37,8 @@ The instructions for this activity are broken into two parts:
 
 # Part 1: Create the Earthquake Visualization
 
+![](https://github.com/evz5050/leaflet-challenge/blob/main/images/2-BasicMap%20(1).png)
+
 Your first task is to visualize an earthquake dataset. Complete the following steps:
 
 
@@ -44,11 +46,12 @@ Your first task is to visualize an earthquake dataset. Complete the following st
 
 - The USGS provides earthquake data in a number of different formats, updated every five minutes. Visit the USGS GeoJSON Feed page and choose a dataset to visualize. The following image is an example screenshot of what appears when you visit this link:
 
+![](https://github.com/evz5050/leaflet-challenge/blob/main/images/3-Data.png)
 
 
 - When you click a dataset (such as "All Earthquakes from the Past 7 Days"), you will be given a JSON representation of that data. Use the URL of this JSON to pull in the data for the visualization. The following image is a sampling of earthquake data in JSON format:
 
-
+![](https://github.com/evz5050/leaflet-challenge/blob/main/images/4-JSON.png)
 
 
 2.) Import and visualize the data by doing the following:
@@ -81,6 +84,8 @@ Your first task is to visualize an earthquake dataset. Complete the following st
 # Part 2: Gather and Plot More Data (Optional)
 The USGS wants you to plot a second dataset on your map to illustrate the relationship between tectonic plates and seismic activity. So, you will need to pull in this dataset and visualize it alongside your original data. Data on tectonic plates can be found at https://github.com/fraxen/tectonicplates.
 The following image is an example screenshot of what the USGS would like you to produce:
+
+![](https://github.com/evz5050/leaflet-challenge/blob/main/images/5-Advanced.png)
 
 Perform the following tasks:
 
